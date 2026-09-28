@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix FindSafe",
+  "description": "AI-Powered Missing Persons Detection, Rapid Sighting Analysis, and Emergency Assistance System",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
